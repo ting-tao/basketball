@@ -1,0 +1,4 @@
+<!--index.wxml-->
+
+<map id="map" scale="14" show-location="true" latitude="{{curLocation?curLocation.latitude:null}}" longitude="{{curLocation?curLocation.longitude:null}}" markers="{{courtList}}" bindtap="mapTap" bindregionchange="mapRegionChange" />
+

@@ -1,0 +1,9 @@
+<!--court.wxml-->
+ <view class="section__title">
+ 当前位置:{{curLocation.address}}
+ </view>
+
+<view class="section__title">
+<map id="map" scale="14" show-location  bindtap="mapTap" bindregionchange="mapRegionChange" />
+</view>
+
