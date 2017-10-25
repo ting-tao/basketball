@@ -38,5 +38,6 @@ App({
     userInfo:null,
    	test:'aa',
 	test2:'bb',
+	c:1
   }
 })
