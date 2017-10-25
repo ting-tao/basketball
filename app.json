@@ -18,7 +18,8 @@
       },
       {
         "pagePath": "pages/court/court",
-        "text": "球场列表"
+        "text": "球场列表",
+		'add':'123'
       },
       {
         "pagePath":"pages/personal/personal",
