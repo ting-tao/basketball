@@ -36,6 +36,7 @@ App({
   },
   globalData:{
     userInfo:null,
-    userCode:null
+    userCode:null,
+	test:'aa'
   }
 })
