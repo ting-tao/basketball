@@ -7,3 +7,4 @@ var e=11;
 commit
 
 cccc1
+var kk==0
