@@ -8,3 +8,5 @@ commit
 
 cccc1
 var kk==0
+
+var k==aaaa
